@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `Domina R`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![image](https://github.com/LinkedInLearning/domina-R-3290153/assets/71371373/3718a268-a2b8-4db5-85d4-d6ca7cd69cc8)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -31,7 +31,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
+[lil-course-url]: https://www.linkedin.com/learning/domina-r/aplicaciones-con-r
 [lil-thumbnail-url]: https:
 
 [1]: # (End of ES-Instruction ###############################################################################################)
