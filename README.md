@@ -32,6 +32,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/domina-r/aplicaciones-con-r
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQENTB5d-BcrRg/learning-public-crop_675_1200/0/1690883500980?e=1697122800&v=beta&t=9t7OGfhmlNP9lyVQvDBlrjmR9xffPY_ZNn9C_0Mt8ws
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQENTB5d-BcrRg/learning-public-crop_675_1200/0/1690883500980?e=2147483647&v=beta&t=MaPI3xVkGJWm5MaoIdri8yhl8N3Q6WfJd9egyfxWnUQ
 
 [1]: # (End of ES-Instruction ###############################################################################################)
